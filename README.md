@@ -2,7 +2,7 @@
 
 ![image](How_to_trigger_Dataprep_jobs_From_Cloud_Storage.png)
 
-Assets for demonstration of the blog post **"How to Automate a Cloud Dataprep Pipeline on File’s Arrival"(https://www.trifacta.com/blog/automate-cloud-dataprep-pipeline/)**
+Assets for demonstration of the blog post **"How to Automate a Cloud Dataprep Pipeline When a File Arrives"(https://www.trifacta.com/blog/automate-cloud-dataprep-pipeline/)**
 
 - **[flow_dataprep_demo.zip](https://github.com/victorcouste/demo-trigger-dataprep-job-from-gcs/blob/master/flow_dataprep_demo.zip)** : Dataprep Flow package example to import from Dataprep UI.
 
