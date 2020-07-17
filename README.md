@@ -13,7 +13,13 @@ Assets for demonstration of the blog post **"How to Automate a Cloud Dataprep Pi
 - **[cloud-function.py](https://github.com/victorcouste/demo-trigger-dataprep-job-from-gcs/blob/master/cloud-function.py)** : Background Python function to trigger a Dataprep job when a file is created in a Google Cloud Storage bucket folder. Dataprep job started with REST API call and new file as parameter.
 
 
+Google Cloud Functions https://cloud.google.com/functions
 
+Google Cloud Dataprep by Trifacta https://cloud.google.com/dataprep
+
+Google Cloud Dataprep API https://clouddataprep.com/documentation/api
+
+All Trifacta API https://api.trifacta.com/
 
 
 
