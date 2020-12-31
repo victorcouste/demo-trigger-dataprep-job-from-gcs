@@ -1,4 +1,4 @@
-# demo-trigger-dataprep-job-from-gcs
+# Trigger Cloud Dataprep jobs from GCS
 
 ![image](How_to_trigger_Dataprep_jobs_From_Cloud_Storage.png)
 
